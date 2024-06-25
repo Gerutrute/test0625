@@ -7,8 +7,8 @@
  3. Method
     1) 웹 : flasak로 구성하여 serving 하였음.
 
-	2) 딥러닝 : VIT 모델 사용
- 3) 
+    2) 딥러닝 : VIT 모델 사용
+
 ![architecture](https://github.com/Gerutrute/test0625/assets/96192262/554f7e38-9fbd-4317-bb5d-792113ff5bb8)
 
  4. 결과
