@@ -5,7 +5,7 @@
  2. 장소 : 알파코 딥러닝 부트캠프
 
  3. Method
-    1) 웹 : flasak로 구성하여 serving 하였음.
+    1) 웹 : flask로 구성하여 serving 하였음.
 
     2) 딥러닝 : VIT 모델 사용
 
